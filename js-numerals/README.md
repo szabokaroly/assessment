@@ -1,7 +1,3 @@
-I tried to solve the task as simply as possible.
-I created a simple form, with basic CSS, then used recursion to solve the problem.
-The application works for numbers below 1 billion.
-
 # JavaScript/Front-end Developer - Exercise 1
 
 ## Instructions
